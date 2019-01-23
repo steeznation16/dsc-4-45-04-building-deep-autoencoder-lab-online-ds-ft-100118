@@ -28,7 +28,7 @@ The second set of four or five layers that make up the decoding half.
 
 In our previous lab, we used single fully-connected layers for both the encoding and decoding models while building a simple AE. With deep AE, we can stack multiple fully-connected layers to make each of the encoder and decoder functions __deep__, turning our simple model into a deep architecture.
 
-## Repeat the previous experiment with suggested modifications.
+In this lab, we'll do just that: we'll repeat the initial problem setup, importing the same dataset and performing the same preprocessing. From there, we'll once again build an autoencoder, but this time, we will stack multiple layers in order to improve our performance.
 
 ## Import the code for reading + preprocessing  fashion-MNIST dataset 
 
