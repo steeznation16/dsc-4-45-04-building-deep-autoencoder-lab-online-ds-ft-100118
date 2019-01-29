@@ -9,8 +9,8 @@ Deep auto encoders are characterized by having more than one layers in their enc
 
 You will be able to:
 - Build a deep autoencoder in Keras
-- Create the encoder and decoder functions as multiple fully connected layers. 
-- Train an autoencoder with selected loss function and optimizer.
+- Create the encoder and decoder functions as multiple fully connected layers 
+- Train an autoencoder with selected loss function and optimizer
 
 ## Deep Autoencoders
 
