@@ -1,5 +1,5 @@
 
-# Building a Deep Auto-Encoder - Lab
+# Building a Deep Autoencoder - Lab
 
 ## Introduction
 
@@ -7,11 +7,12 @@ Deep auto encoders are characterized by having more than one layers in their enc
 
 ## Objectives
 
+You will be able to:
 - Build a deep autoencoder in Keras
 - Create the encoder and decoder functions as multiple fully connected layers. 
 - Train an autoencoder with selected loss function and optimizer.
 
-## Deep Auto-Encoders
+## Deep Autoencoders
 
 The extension of the simple Autoencoder is the __Deep Autoencoder__. The first layer of the Deep Autoencoder is used for first-order features in the raw input. The second layer is used for second-order features corresponding to patterns in the appearance of first-order features. This is also knows as FoF in deep learning i.e. Features of Features. Deeper layers of the Deep Autoencoder tend to learn even higher-order features.
 
